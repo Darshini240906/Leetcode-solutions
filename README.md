@@ -46,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
