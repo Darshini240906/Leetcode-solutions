@@ -4,25 +4,18 @@ public:
         stack<int> st;
 
         for (int x : asteroids) {
-            bool destroyed = false;
-
-            while (!st.empty() && st.top() > 0 && x < 0) {
-                if (st.top() < -x) {
-                    st.pop();
-                } 
-                else if (st.top() == -x) {
-                    st.pop();
-                    destroyed = true;
-                    break;
-                } 
-                else {
-                    destroyed = true;
-                    break;
-                }
-            }
-
-            if (!destroyed) {
+            if (x > 0) {
                 st.push(x);
+            } else {
+                while (!st.empty() && st.top() > 0 && st.top() < -x) {
+                    st.pop();
+                }
+
+                if (st.empty() || st.top() < 0) {
+                    st.push(x);
+                } else if (st.top() == -x) {
+                    st.pop();
+                }
             }
         }
 
