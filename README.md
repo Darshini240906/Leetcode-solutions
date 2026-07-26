@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0143-reorder-list](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0143-reorder-list) |
+| [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 ## Simulation
 |  |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
