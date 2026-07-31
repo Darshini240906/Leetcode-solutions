@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0204-count-primes) |
+| [0371-sum-of-two-integers](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Enumeration
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Prefix Sum
