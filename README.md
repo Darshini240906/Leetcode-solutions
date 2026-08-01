@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Matrix
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Divide and Conquer
