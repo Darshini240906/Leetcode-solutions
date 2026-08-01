@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Sliding Window
