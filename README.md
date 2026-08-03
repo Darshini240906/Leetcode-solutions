@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0907-sum-of-subarray-minimums](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 ## Greedy
