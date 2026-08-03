@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -291,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
