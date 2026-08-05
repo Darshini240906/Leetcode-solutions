@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
