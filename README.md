@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0502-ipo](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
