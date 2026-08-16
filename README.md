@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0051-n-queens) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0174-dungeon-game) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0051-n-queens) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -396,9 +400,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0051-n-queens) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
