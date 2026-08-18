@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2615-sum-of-distances](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [2615-sum-of-distances](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2615-sum-of-distances) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
