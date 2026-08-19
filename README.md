@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 ## Dynamic Programming
 |  |
