@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0182-duplicate-emails) |
+| [0184-department-highest-salary](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0184-department-highest-salary) |
 | [0619-biggest-single-number](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
