@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1470-shuffle-the-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
