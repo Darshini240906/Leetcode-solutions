@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
 | ------- |
@@ -533,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
