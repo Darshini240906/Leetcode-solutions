@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1470-shuffle-the-array](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1470-shuffle-the-array) |
+| [1765-map-of-highest-peak](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2104-sum-of-subarray-ranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1765-map-of-highest-peak](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
