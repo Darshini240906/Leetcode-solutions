@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0354-russian-doll-envelopes) |
 | [0416-partition-equal-subset-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0174-dungeon-game) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
