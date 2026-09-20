@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0796-rotate-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
