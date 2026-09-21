@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0072-edit-distance](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0091-decode-ways) |
+| [0126-word-ladder-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0402-remove-k-digits) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0126-word-ladder-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
@@ -575,5 +579,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
