@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
