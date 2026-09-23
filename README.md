@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -553,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1765-map-of-highest-peak](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1765-map-of-highest-peak) |
@@ -570,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Darshini240906/Leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -595,4 +599,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0785-is-graph-bipartite) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
