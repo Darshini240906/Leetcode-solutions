@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0480-sliding-window-median) |
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
