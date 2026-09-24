@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0796-rotate-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
