@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0661-image-smoother](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
