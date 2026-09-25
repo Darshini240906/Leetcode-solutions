@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
 | [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [2615-sum-of-distances](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2615-sum-of-distances) |
 | [3904-smallest-stable-index-ii](https://github.com/Darshini240906/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
