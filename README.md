@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0621-task-scheduler](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0997-find-the-town-judge](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0997-find-the-town-judge) |
 | [2615-sum-of-distances](https://github.com/Darshini240906/Leetcode-solutions/tree/master/2615-sum-of-distances) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0143-reorder-list](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0143-reorder-list) |
 | [0355-design-twitter](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0355-design-twitter) |
+| [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -618,4 +622,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0802-find-eventual-safe-states) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Darshini240906/Leetcode-solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
